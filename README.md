@@ -78,7 +78,7 @@ SVM was selected as the final model due to better performance.
 ```text
 emotion_recognition/
 │
-├── app.py
+├── emotion_app.py
 ├── build_dataset.py
 ├── train.py
 ├── train_svm.py
@@ -148,7 +148,7 @@ streamlit run emotion_app.py
 
 ---
 ## Live Demo
-[Open Application]()
+[Open Application](https://codealphaemotionrecognition-f5sr8thq7y3nb5xtq4c8eh.streamlit.app/)
 
 ## Author
 
