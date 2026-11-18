@@ -17,6 +17,10 @@ Supported emotions:
 * Sad
 * Surprised
 
+
+
+🌐 **Live Demo:** [View Live Streamlit Cloud Application](https://codealphaemotionrecognition-f5sr8thq7y3nb5xtq4c8eh.streamlit.app/)
+
 ---
 
 ## Features
